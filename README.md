@@ -1,2 +1,2 @@
-# aws-lambda-with-quarkus
-a lambda demo
+# quarkus-demo
+a quarkus demo 
